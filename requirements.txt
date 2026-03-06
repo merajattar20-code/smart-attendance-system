@@ -1,2 +1,5 @@
-Flask
-geopy
+# Additional Dependencies
+
+python-dotenv
+requests
+logging
